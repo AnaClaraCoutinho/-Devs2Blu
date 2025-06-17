@@ -1,0 +1,8 @@
+Enviar projeto pela primeira vez:
+- git init
+- git add .
+- git commit -m "sua mensagem"
+- git remote add origin https://github.com/AnaClaraCoutinho/-Devs2Blu.git
+- git push origin master
+
+Atualizar projeto:
