@@ -1,3 +1,0 @@
-Tudo certo?
-
-Estou usando o git
