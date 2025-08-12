@@ -137,6 +137,49 @@ Sistema web CRUD utilizando HTML, CSS, JavaScript puro e uma API fake com `json-
 ---
 
 ## Resumo sobre metodologia ágil
+
 A metodologia ágil ajudou a quebrar o trabalho em etapas curtas e objetivas.  
 **Vantagem:** Visão clara de cada entrega antes de iniciar.  
 **Desafio:** Manter o ritmo constante mesmo com prazos apertados.
+
+---
+
+## Integrantes
+
+- Ana Clara Coutinho
+
+---
+
+## Responsabilidades no desenvolvimento
+
+- Ana Clara Coutinho: Responsável por toda a implementação do front-end, estilização com CSS e Bootstrap, consumo da API fake com JSON Server, implementação completa das funções de CRUD, tratamento de erros e mensagens, além da organização e documentação final do projeto.
+
+---
+
+## Cronograma
+
+- **Período de desenvolvimento:** 05/08/2025 a 07/08/2025  
+- **Período de testes:** 07/08/2025 (tarde)  
+- **Período de revisão:** 07/08/2025 (noite)  
+- **Período de deploy local:** 07/08/2025 (noite)
+
+---
+
+## Datas das Sprints
+
+- **Data inicial da Sprint:** 05/08/2025  
+- **Data final da Sprint:** 07/08/2025
+
+---
+
+## Quantidade total de Sprints
+
+- 20 Sprints
+
+---
+
+## Observações
+
+A metodologia ágil foi essencial para organizar o trabalho em etapas curtas e produtivas.  
+**Vantagens:** Clareza nas entregas, maior foco e melhor ritmo de desenvolvimento.  
+**Desafios:** Manter a disciplina de revisar e documentar cada parte do processo mesmo com prazos apertados.
